@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there 👋
+
+My name is Taaj Ojha and I am current a MSc Statistics Student at Imperial College London. Some of my interests are in: 
+
+- Stochastic Processes
+- High Dimensional Data 
+- Optimisation Methods 
+
+My LinkedIn URL is: [Click Here!](https://www.linkedin.com/in/taaj-ojha-07b282214/?isSelfProfile=true)
 
 <!--
 **ojhat/ojhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
