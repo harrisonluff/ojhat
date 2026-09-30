@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Taaj Ojha and I am a current MSc Statistics Student at Imperial College London. Some of my interests are in: 
+My name is Taaj Ojha and I am currently studying MSc Statistics at Imperial College London after graduating from UCL in BSc Economics and Statistics. Some of my interests are in: 
 
 - Stochastic Processes
 - High Dimensional Data 
